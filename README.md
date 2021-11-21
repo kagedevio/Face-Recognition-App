@@ -6,3 +6,6 @@ Final project for ZTM course
 2. Run `npm install`
 3. Run `npm start`
 Face Recognition App
+
+
+check the site out on https://faceidentifyapp.netlify.app/
